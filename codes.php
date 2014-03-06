@@ -1,4 +1,8 @@
-<?php if($current_conditions_code == 200){
+<?php 
+
+//where $current_conditions_code is the code you get back from your call to the API 
+
+if($current_conditions_code == 200){
 
 } elseif($current_conditions_code == 201){
 
